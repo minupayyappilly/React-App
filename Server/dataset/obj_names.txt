@@ -1,0 +1,9 @@
+cat
+dog
+squirrel
+tree
+car
+house
+person
+bicycle
+boat
